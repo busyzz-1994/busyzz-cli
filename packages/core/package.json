@@ -14,9 +14,9 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {},
-  "gitHead": "a70ad97f71e3486fc937990fdbdfd6062e7d12fe"
+  "gitHead": "8cecceeb12e6ed962da008658978ad0123bdf354"
 }
